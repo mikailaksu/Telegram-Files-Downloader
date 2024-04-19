@@ -11,4 +11,4 @@ Telegram'da belirli dosyaları otomatik dosyaları tek tek indirmeye yarar.
 
 ## document.ext-rar.search-super-item olan alanı document.ext-zip.search-super-item yaparsanız zip dosyalarını çeker.
 
-[]!(https://i.hizliresim.com/az4u5em.jpg)
+![](https://i.hizliresim.com/az4u5em.jpg)
